@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu João Lucas
+Meu João Pedro 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
